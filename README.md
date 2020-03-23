@@ -1,4 +1,4 @@
 # -website
 
 
-<a href="https://tansionline.github.io/-blog/html/index.html" target="blank">this is my blog&website  </a>
+<a href="https://tansionline.github.io/website/html/index.html" target="blank">open website</a>
