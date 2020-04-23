@@ -17,9 +17,10 @@ body {
   margin-right: 18%;
 }
 
-.myimg {
-  margin-top: 5rem;
-  
+img {
+  width: auto ;
+  max-width: 100% ;
+  height: auto ;
 }
 
 .ps {
