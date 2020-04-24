@@ -1,4 +1,4 @@
-:root {
+body {
     background-color: #5680E9;
   }
   
@@ -9,5 +9,17 @@
   .container-fluid {
     background-color: #C1C8E4;
   }
+
+.ayna {
+  text-align: center;
+}
+  img {
+    margin-top: 5rem;
+    width: auto ;
+    max-width: 75% ;
+    height: auto ;
+  }
+
+
   
   
