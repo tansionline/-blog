@@ -10,4 +10,20 @@ body {
     background-color: #C1C8E4;
   }
   
-  
+  .banner {
+    margin-top: 3rem;
+    background-color: #CAEBF2;
+    margin-left: 15%;
+    margin-right: 15%;
+    text-align: center;
+  }
+
+  img {
+    margin-left: 25%;
+    margin-right: 25%;
+    margin-top: 2rem;
+    margin-bottom: 2rem;
+    max-width: 50%; 
+    max-height: 50%;
+  }
+
