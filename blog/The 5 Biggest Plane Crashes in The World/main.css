@@ -15,18 +15,20 @@ body {
   .banner {
     margin-top: 3rem;
     background-color: #CAEBF2;
-    margin-left: 15%;
-    margin-right: 15%;
+    margin-left: 10%;
+    margin-right: 10%;
     text-align: center;
   }
 
   img {
-    margin-left: 15%;
-    margin-right: 15%;
+    margin-left: 5%;
+    margin-right: 5%;
     margin-top: 2rem;
     margin-bottom: 2rem;
-    max-width: 60%; 
-    max-height: 60%;
+    max-width: 75%; 
+    max-height: 85%;
+    width: 100%;
+    height: 100%;
   }
 
   footer {
@@ -39,8 +41,8 @@ body {
   }
 
  .embed-responsive {
-     margin-left: 25%;
-     margin-right: 25%;
-     width: 50%;
-     height: 50%;
+     margin-left: 0%;
+     margin-right: 15%;
+     width: 100%;
+     height: 100%;
  }
