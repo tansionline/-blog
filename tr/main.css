@@ -1,5 +1,7 @@
 @import url('https://fonts.googleapis.com/css?family=Abril+Fatface&display=swap');
 
+@import url('https://fonts.googleapis.com/css?family=Lora&display=swap');
+
 body {
   margin: 0;
 }
@@ -108,7 +110,7 @@ li {
 
 
  .nav-left  {
-  float: flex;
+   float: flex;
    text-align: center;
    width: 100%;
    display: grid;
@@ -117,7 +119,101 @@ li {
 
 }
 
+/* BLOG PAGE 1 */
 
+.image {
+  float: left;
+  margin-left: 15%;
+
+}
+
+.image img {
+  max-width: 43%;
+}
+
+.titleandpara {
+  float: right;
+  margin-left: 52%;
+  margin-right: 15%;
+  margin-top: -27%;
+  margin-bottom: -27%;
+  font-family: 'Lora', serif;
+
+}
+
+@media (max-width: 320px) {
+  
+}
+
+
+
+/*
+.blog1 {
+  margin-bottom: 2rem;
+}
+
+
+.ayna {
+  float: left;
+  width: 35%;
+  margin-left: 19%;
+}
+
+.categories a {
+  position: relative;
+  font-family: 'Josefin Sans', sans-serif;
+  float: left;
+  margin-right: 22%;
+  margin-top: 4%;
+  font-size: 20px;
+ 
+}
+
+.h1ayna {
+  position: relative;
+  font-family: 'Libre Baskerville', serif;
+  float: left;
+  margin-right: 22%;
+  margin-top: 2%;
+
+}
+
+
+.explanation {
+  position: relative;
+  float: right;
+  margin-top: -20%;
+  margin-left: 55%;
+  margin-right: 22%;
+  font-size: 20px;
+  letter-spacing: 0.5px;
+  font-family: 'Libre Franklin', sans-serif;
+
+}
+
+.resim1 {
+  float: right;
+  margin-right: 41%;
+  margin-top: -7%;
+  width: 3%;
+}
+
+.name {
+  font-family: 'Libre Franklin', sans-serif;
+  font-size: 20px;
+  float: right;
+  margin-right: 34%;
+  margin-top: -7%;
+}
+
+.date {
+  font-family: 'Libre Franklin', sans-serif;
+  font-size: 14px;
+  float: right;
+  margin-right: 34%;
+  margin-top: -5%;
+}
+*/
   /* --GRIDS
 
  display: grid;
