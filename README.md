@@ -1,2 +1,2 @@
 # -Selcuk TATAR
-magic hair, developer, student, podcaster, Aynanin Diger Yuzu.   
+magic hair, developer, student .   
